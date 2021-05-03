@@ -1,0 +1,2 @@
+# Email-Client-Software-Java-Project
+An Email Client software is an email program developed to send and receive electronic mail. This proposed project is an Email Client application developed using Java and some Java APIs. Here, standard sockets and networking have been used in addition to Java Mail API. The protocols used in the project are SMTP, POP3; the latter one is used to collect the emails sent to our address.
